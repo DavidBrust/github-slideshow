@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-*Use your full potential!*
+*It is 5 minutes to 3 o'clock*
 Use the left arrow to go back!
